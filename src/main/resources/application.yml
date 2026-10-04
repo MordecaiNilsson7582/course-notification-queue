@@ -1,0 +1,5 @@
+server:
+  port: ${PORT:8080}
+learning:
+  delivery:
+    poll-ms: ${POLL_MS:5000}
